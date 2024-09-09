@@ -11,7 +11,7 @@ alexander.kochkarev@gmail.com
 ## Education:
 
 Novosibirsk State University of Architecture and Civil Engineering - Software Engineer 
-2003 -  2008
+(2003 - 2008)
 
 ## Skills:
 
@@ -23,12 +23,13 @@ Russian, English
 
 ## Experience:
 
-Freelance - Software Developer
-2021 - present
+### 2021 - present
+Freelance - Software Developer (2021 - present)
+
+### 2009 - 2016
 
 Novosoft - C/C++ Developer
-2009 - 2016
-
+    
 ## Projects:
 
 **Pcap Retreval** - Service with HTTP API for downloading captured .pcap and .wav files (C/C++, Linux)
