@@ -30,9 +30,9 @@ Freelance - Software Developer
 
 Novosoft - C/C++ Developer
     
-## Projects:
+## Projects I developed:
 
-**Pcap Retreval** - Service with HTTP API for downloading captured .pcap and .wav files (C/C++, Linux)
+**Pcap Retreval** - Service with HTTP API for downloading captured .pcap and .wav files (C/C++, Linux, PostreSQL, HTTP)
 
 **CDR Uploader** - Call Detail Record data reading, converting and uploading to Google Drive (C/C++, Linux)
 
@@ -42,7 +42,7 @@ Novosoft - C/C++ Developer
 
 **MTA Status Monitor** - NY subways and railways status display (JavaScript, HTML)
 
-**Intercoms Manager Tool** (Python, Qt)
+**Intercoms Manager Tool** - Multifunctional command line tool with GUI frontend for IP devices management (Python, Qt, REST API)
 
 **AdWords Link Checker** (Google Spreadsheets, Apps Script)
 
@@ -67,6 +67,12 @@ Novosoft - C/C++ Developer
 **Handy Backup** - Scalable application for backup and restore with server-agent architecture with support of different data sources from simple files to databases. I worked for about 7 years on this project, holding positions from junior to lead developer. Was involved in project support, fixes, features implementations and plug-ins development. (C/C++, Windows, Linux, CORBA)
 
 
+## Cooperation
+
+If you have a project that needs updating, refactoring or fixing. Or you want to start a new one. Feel free to contact me.
+
+---
+*Alex, Make Life Better Software, 2024*
 
 
 
