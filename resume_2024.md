@@ -24,7 +24,7 @@ Russian, English
 ## Experience:
 
 ### 2021 - present
-Freelance - Software Developer (2021 - present)
+Freelance - Software Developer
 
 ### 2009 - 2016
 
